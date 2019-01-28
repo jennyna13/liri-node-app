@@ -18,7 +18,7 @@
   Venue location
   Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-    
+![alt text](screenshots/bands.png)    
 
 <h6>node liri.js spotify-this-song 'song name here'</h6>
   
