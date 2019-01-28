@@ -17,7 +17,9 @@
   Name of the venue
   Venue location
   Date of the Event (use moment to format this as "MM/DD/YYYY")
-  
+
+    
+
 <h6>node liri.js spotify-this-song 'song name here'</h6>
   
 - This will show the following information about the song in your terminal/bash window
@@ -26,7 +28,7 @@ Artist(s)
 The song's name
 A preview link of the song from Spotify
 The album that the song is from
-
+spotify
 <h6>node liri.js movie-this 'movie name here'</h6>
   
 - This will output the following information to your terminal/bash window:
@@ -39,5 +41,9 @@ The album that the song is from
   * Language of the movie.
   * Plot of the movie.
   * Actors in the movie.
+ 
+ <h6>node liri.js do-what-it-says</h6>
+ 
+  It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 
   
